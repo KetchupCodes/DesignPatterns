@@ -1,0 +1,15 @@
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll

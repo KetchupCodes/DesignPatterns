@@ -1,0 +1,15 @@
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/bin/Debug/net7.0/Singleton
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Singleton/obj/Debug/net7.0/ref/Singleton.dll

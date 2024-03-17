@@ -1,0 +1,15 @@
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/bin/Debug/net7.0/Strategy
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/bin/Debug/net7.0/Strategy.deps.json
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/bin/Debug/net7.0/Strategy.runtimeconfig.json
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/bin/Debug/net7.0/Strategy.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/bin/Debug/net7.0/Strategy.pdb
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.csproj.AssemblyReference.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.AssemblyInfoInputs.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.AssemblyInfo.cs
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/refint/Strategy.dll
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.pdb
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/Strategy.genruntimeconfig.cache
+/Users/yashaskashyap/RiderProjects/DesignPatterns/Strategy/obj/Debug/net7.0/ref/Strategy.dll
